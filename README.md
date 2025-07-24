@@ -1,6 +1,6 @@
 # EtaBan (Etalase Banua Micro Enterprises Website)
 
-## Deskripsi Proyek
+## Deskripsi Software Berbasis WEB
 
 Etalase Banua adalah sebuah website yang dibuat untuk membantu para pelaku UMKM (khususnya di daerah Kota Banjarmasin) yang masih terkendala dalam mempromosikan usaha mereka secara online. ETABAN menawarkan berbagai manfaat bagi para pengguna mulai dari kemudahan penggunaan, sarana promosi yang terpusat, hingga tampilan yang menarik dan responsif di berbagai perangkat. ETABAN juga menyediakan berbagai fitur untuk membantu para pelaku UMKM, seperti menambahkan UMKM, menambahkan produk-produk untuk UMKM tersebut, dan memberikan review dari para pengguna.
 
