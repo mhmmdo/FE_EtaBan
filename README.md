@@ -1,11 +1,8 @@
-# MAMEN (Manado Micro Enterprises Website)
+# EtaBan (Etalase Banua Micro Enterprises Website)
 
 ## Deskripsi Proyek
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://res.cloudinary.com/dtkczgmyn/image/upload/v1733478149/hero-dekstop_ksqahr.png" alt="Hero Section Desktop" style="width: 75%; margin-right: 4px;">
-  <img src="https://res.cloudinary.com/dtkczgmyn/image/upload/v1733478147/hero-mobile_ejbakn.png" alt="Hero Section Mobile" style="width: 21%;">
-</div>
-MAMEN adalah sebuah website yang dibuat untuk membantu para pelaku UMKM (khususnya di daerah Manado) yang masih terkendala dalam mempromosikan usaha mereka secara online. MAMEN menawarkan berbagai manfaat bagi para pengguna mulai dari kemudahan penggunaan, sarana promosi yang terpusat, hingga tampilan yang menarik dan responsif di berbagai perangkat. MAMEN juga menyediakan berbagai fitur untuk membantu para pelaku UMKM, seperti menambahkan UMKM, menambahkan produk-produk untuk UMKM tersebut, dan memberikan review dari para pengguna.
+
+Etalase Banua adalah sebuah website yang dibuat untuk membantu para pelaku UMKM (khususnya di daerah Kota Banjarmasin) yang masih terkendala dalam mempromosikan usaha mereka secara online. ETABAN menawarkan berbagai manfaat bagi para pengguna mulai dari kemudahan penggunaan, sarana promosi yang terpusat, hingga tampilan yang menarik dan responsif di berbagai perangkat. ETABAN juga menyediakan berbagai fitur untuk membantu para pelaku UMKM, seperti menambahkan UMKM, menambahkan produk-produk untuk UMKM tersebut, dan memberikan review dari para pengguna.
 
 ## Fitur Utama
 - Menampilkan daftar UMKM dan detail UMKM
@@ -30,13 +27,13 @@ MAMEN adalah sebuah website yang dibuat untuk membantu para pelaku UMKM (khususn
 Clone the project
 
 ```bash
-git clone https://github.com/Isshoo/FE_Mamen.git
+git clone https://github.com/mhmmdo/FE_EtaBan.git
 ```
 
 Make sure to be in Frontend-main directory
 
 ```bash
-cd FE_Mamen
+cd FE_EtaBan
 ```
 
 Install dependencies
@@ -65,7 +62,7 @@ npm run build-serve
 ## Langkah-langkah Penggunaan
 
 ### 1. Mengakses Website tanpa Login
-- Kunjungi [MAMEN Website](https://mamen-mdo.vercel.app/)
+- Kunjungi [EtaBan Website](https://etaban.vercel.app/)
 - Halaman awal website menyediakan berbagai menu untuk diakses:
   - **UMKM**: Lihat daftar UMKM
   - **Produk**: Lihat daftar produk dari seluruh UMKM
@@ -139,10 +136,7 @@ npm run build-serve
 ---
 
 ## Tim Pengembang
-- **Algy F.C. Ngenget** (B243070A)
-- **Monica A. Pandeiroth** (B243071A)
-- **Sesilia R.M. Pandejlaki** (B243072A)
-- **Melia N. Kuntono** (B243073A)
+- **Muhammad Ridho** (Mahasiswa Politeknik Negeri Banjarmasin)
 
 ## Link Terkait
-- [Dokumentasi Backend](https://github.com/Isshoo/BE_Mamen)
+- [Dokumentasi Backend](https://github.com/mhmmdo/BE_EtaBan)
