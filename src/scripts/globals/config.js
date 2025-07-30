@@ -1,6 +1,6 @@
 const CONFIG = {
   KEY: process.env.API_KEY_ETABAN,
-  BASE_URL: 'http://localhost:5000',
+  BASE_URL: process.env.URL_BACK_END,
   DEFAULT_LANGUAGE: 'en-us',
 };
 
